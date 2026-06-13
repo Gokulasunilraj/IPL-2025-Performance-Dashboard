@@ -1,5 +1,7 @@
 # IPL 2025 Performance Dashboard
+## Dashboard Preview
 
+![IPL 2025 Dashboard](dashboardimage.png)
 ## Project Overview
 
 This Power BI dashboard provides a comprehensive analysis of IPL 2025 player and team performance. The project uses interactive visualizations to explore batting and bowling statistics, helping users identify top performers and key tournament trends.
